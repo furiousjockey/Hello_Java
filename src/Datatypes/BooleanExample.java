@@ -2,7 +2,7 @@ package Datatypes;
 
 public class BooleanExample {
     public static void main(String[] args) {
-         boolean b = true;
-        System.out.println(b);
+         boolean c = true;
+        System.out.println(c);
     }
 }
